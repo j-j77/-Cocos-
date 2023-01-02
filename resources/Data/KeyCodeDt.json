@@ -1,0 +1,36 @@
+[
+    {
+        "id":2001,
+        "dir":{
+            "65":"runLeft",
+            "68":"runRight",
+            "87":"runUp",
+            "83":"runDown",
+            "32":"addBubble"
+        },
+        "reverseDir":{
+            "65":"runRight",
+            "68":"runLeft",
+            "87":"runDown",
+            "83":"runUp",
+            "32":"addBubble"
+        }
+    },
+    {
+        "id":2002,
+        "dir":{
+            "37":"runLeft",
+            "39":"runRight",
+            "38":"runUp",
+            "40":"runDown",
+            "16":"addBubble"
+        },
+        "reverseDir":{
+            "37":"runRight",
+            "39":"runLeft",
+            "38":"runDown",
+            "40":"runUp",
+            "16":"addBubble"
+        }
+    }
+]

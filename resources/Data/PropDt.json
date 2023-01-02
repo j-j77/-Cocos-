@@ -1,0 +1,32 @@
+[
+    {
+        "id":4001,
+        "img":"prop0",
+        "value":1
+    },
+    {
+        "id":4002,
+        "img":"prop1",
+        "value":1
+    },
+    {
+        "id":4003,
+        "img":"prop2",
+        "value":-1
+    },
+    {
+        "id":4004,
+        "img":"prop3",
+        "value":50
+    },
+    {
+        "id":4005,
+        "img":"prop4",
+        "value":-1
+    },
+    {
+        "id":4006,
+        "img":"prop5",
+        "value":3
+    }
+]
