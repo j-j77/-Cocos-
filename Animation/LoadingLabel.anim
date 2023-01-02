@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "LoadingLabel",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.6666666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Label": {
+        "string": [
+          {
+            "frame": 0,
+            "value": "资源加载中"
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": "资源加载中."
+          },
+          {
+            "frame": 0.2,
+            "value": "资源加载中."
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": "资源加载中.."
+          },
+          {
+            "frame": 0.5,
+            "value": "资源加载中..."
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": "资源加载中"
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

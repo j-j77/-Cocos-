@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "die2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 3,
+  "sample": 2,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "20654134-185a-48f5-80b5-42355678ef63"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "1ec9c614-8dbc-4128-a6dc-79f4a35424d4"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "860e582c-806a-47b9-ac04-566dcc869fb4"
+            }
+          },
+          {
+            "frame": 1.5,
+            "value": {
+              "__uuid__": "14424885-e815-4b7a-bb25-115eac33ad2d"
+            }
+          },
+          {
+            "frame": 2,
+            "value": {
+              "__uuid__": "e4ca4172-ed65-40a4-b7f7-496240384ca6"
+            }
+          },
+          {
+            "frame": 2.5,
+            "value": {
+              "__uuid__": "11676f69-39d5-4dec-a1f6-a85e54d18776"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
